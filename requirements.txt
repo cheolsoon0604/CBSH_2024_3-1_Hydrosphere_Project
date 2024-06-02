@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 pygame~=2.5.2
 numpy~=1.26.4
-=======
-pygame~=2.5.2
-numpy~=1.26.4
->>>>>>> 1f95f2c7f77cc79c73c76551656cf0dcb778365f
 matplotlib~=3.9.0
